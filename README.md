@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-You can click the links in the navigation bar to learn more about each topic. If you open the DevTools console, you can see the webpage meets accessiblity standards. If you view the source code, you will find semantic HTML elements that follow a logical structure, accesible alt attributes on the images, heading attributes that fall in sequiential order and a concise, descriptive title.
+You can click the links in the navigation bar to learn more about each topic. If you open the DevTools console, you can see the webpage meets accessiblity standards. You will find semantic HTML elements that follow a logical structure, accessible alt attributes on the images, heading attributes that fall in sequiential order and a concise, descriptive title.
 
 ## Credits
 
