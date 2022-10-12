@@ -4,7 +4,13 @@
 
 I refactored the existing Horiseon site to make it more accessible. It is important for sites to be made accessible because it helps users with disabilites consume the content and also helps sites be better positioned in search engines. 
 
-In addition to making the site more accessible, I also fixed broken links and reorganized the structure of the CSS file to improve the codebase for long-term sustainability. 
+In addition to making the site more accessible, I also fixed broken links and reorganized the structure of the CSS file to improve the codebase for long-term sustainability.
+
+https://sieraford.github.io/module-1-challenge/
+
+![Screenshot 1](/assets/images/screenshot-1.png?raw=true)
+
+![Screenshot 2](/assets/images/screenshot-2.png?raw=true)
 
 ## Installation
 
