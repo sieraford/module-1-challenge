@@ -6,8 +6,9 @@ I refactored the existing Horiseon site to make it more accessible. It is import
 
 In addition to making the site more accessible, I also fixed broken links and reorganized the structure of the CSS file to improve the codebase for long-term sustainability.
 
-https://sieraford.github.io/module-1-challenge/
+Click [here](https://sieraford.github.io/module-1-challenge/) to view the deployed application. 
 
+## Screenshots
 ![Screenshot 1](/assets/images/screenshot-1.png?raw=true)
 
 ![Screenshot 2](/assets/images/screenshot-2.png?raw=true)
